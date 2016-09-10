@@ -1,0 +1,7 @@
+C:\Users\Артем\Documents\SharpDevelop Projects\stohastic1\zero\bin\Release\zero.exe.config
+C:\Users\Артем\Documents\SharpDevelop Projects\stohastic1\zero\bin\Release\zero.exe
+C:\Users\Артем\Documents\SharpDevelop Projects\stohastic1\zero\obj\Release\zero.csprojResolveAssemblyReference.cache
+C:\Users\Артем\Documents\SharpDevelop Projects\stohastic1\zero\obj\Release\zero.Form1.resources
+C:\Users\Артем\Documents\SharpDevelop Projects\stohastic1\zero\obj\Release\zero.MainForm.resources
+C:\Users\Артем\Documents\SharpDevelop Projects\stohastic1\zero\obj\Release\zero.csproj.GenerateResource.Cache
+C:\Users\Артем\Documents\SharpDevelop Projects\stohastic1\zero\obj\Release\zero.exe
